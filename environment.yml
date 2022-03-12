@@ -1,0 +1,5 @@
+name: test-ipywidgets-7
+dependencies:
+- jupyterlab=3
+- ipywidgets=7.6.5
+- voila=0.3.3
