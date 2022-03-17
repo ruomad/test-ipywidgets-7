@@ -2,5 +2,5 @@ name: test-ipywidgets-7
 dependencies:
   - python=3.10
   - jupyterlab=3
-  - ipywidgets=7.6.5
+  - ipywidgets=7.7
   - voila=0.3.3
